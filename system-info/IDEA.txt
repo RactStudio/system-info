@@ -1,0 +1,34 @@
+System Info Hub (EWPT Module)
+
+The System Info module currently offers comprehensive details about the WordPress website and server, including information on WordPress configuration, media, directories, themes, plugins, server specs, database, WP constants, file permissions, and PHP info. To further improve user experience and provide deeper insights, the future version will introduce advanced features, empowering users to monitor and manage their WordPress environment more effectively.
+
+Planned Advanced Features Overview
+
+1. Live Server Monitoring
+Server RAM Live Update: Users can monitor real-time server RAM usage directly from the WordPress dashboard, with visual graphs that display memory consumption over time. Alerts can be configured to notify users when RAM usage exceeds a certain threshold.
+
+Server CPU Utilization Live Update: The module will provide live updates on CPU utilization, helping users identify and resolve performance bottlenecks. Detailed charts will show CPU usage trends, with options to drill down into specific time periods for in-depth analysis.
+
+Disk Usage Monitoring: Track disk space usage with real-time updates, including breakdowns by directories, files, and databases. Users can receive alerts when disk usage approaches critical levels.
+
+2. WordPress Environment Management
+Enable WordPress Developer/Production Mode: Users can easily switch between developer and production modes. Developer mode will enable debugging tools, error logs, and other features useful during development, while production mode will disable developer features for live sites to enhance security and performance.
+
+3. WordPress Log Management
+Enable WordPress Logs: The module will allow users to enable and manage WordPress logs, including error logs, access logs, and custom logs. Users can filter logs by date, type, or severity and set up alerts for critical issues.
+
+Log Retention and Cleanup: Users can configure log retention policies, automatically archiving or deleting old logs to save disk space. Logs can be exported in various formats (e.g., CSV, JSON) for external analysis.
+
+4. Health Insights
+Health Dashboards: Users can customize their health dashboard to display key metrics that matter most to them, such as server load, database size, or plugin performance. The dashboard will feature widgets that can be rearranged and resized for a personalized view.
+
+Helth Reperts: Users will be able to download health reports as CSV, or PDF.
+
+
+These advanced features are designed to make the System Info module a powerful tool for monitoring, and managing WordPress websites and servers, giving users the insights they need to ensure their sites run smoothly and efficiently.
+
+
+
+
+
+
